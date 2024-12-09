@@ -1,0 +1,104 @@
+/* webpage using 100% screen*/
+body {
+    background-image: url(../assets/marvelsImages/avengersLogoWallpaper7.jpeg);
+    background-size: cover;
+}
+
+/* h1{
+    text-align: center;
+    color: rgb(13, 27, 227);
+    border: 1px solid transparent;
+    background-color: cornsilk;
+    border-radius: 50%;
+    box-shadow: 20px 20px 5px rgb(16, 3, 189);
+} */
+img {
+    height: 210px;
+    width: 210px;
+    border-radius: 50%;
+    position: absolute;
+}
+
+#SpiderMan {
+    top: 540px;
+    left: 420px;
+    z-index: 1500;
+}
+
+#IronMan {
+    top: 400px;
+    left: 340px;
+    z-index: 1400;
+}
+
+#CaptainAmerica {
+    top: 270px;
+    left: 330px;
+    z-index: 1300;
+}
+
+#Thor {
+    top: 150px;
+    left: 375px;
+    z-index: 1200;
+}
+
+#Scarlet {
+    top: 50px;
+    left: 455px;
+    z-index: 1100;
+}
+
+#Hulk {
+    top: 0px;
+    left: 600px;
+    z-index: 1000;
+}
+
+#DoctorStrange {
+    top: 0px;
+    left: 735px;
+    z-index: 900;
+}
+
+#AntMan {
+    top: 50px;
+    left: 850px;
+    z-index: 800;
+}
+
+#BlackWidow {
+    top: 150px;
+    left: 940px;
+    z-index: 700;
+}
+
+#Loki {
+    top: 300px;
+    left: 980px;
+    z-index: 600;
+}
+
+#Vision {
+    top: 430px;
+    left: 960px;
+    z-index: 500;
+}
+
+#CaptainMarvel {
+    top: 560px;
+    left: 865px;
+    z-index: 400;
+}
+
+#BlackPanther {
+    top: 625px;
+    left: 730px;
+    z-index: 300;
+}
+
+#ArrowMan {
+    top: 620px;
+    left: 560px;
+    z-index: 200;
+}
